@@ -1,1 +1,1 @@
-# SQL_Springboard_Mini_Project
+# SQL_Mini_Project
